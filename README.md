@@ -21,3 +21,10 @@ Along with exploring state-of-the-art CNN models for classification  and localiz
 
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+
+## Results
+* Scartch Model
+Accuracy has been achieved up to **10%** with **25 epochs**
+
+* VGG16 Transfer Learning Model
+Accuracy has been achieved up to **88%** with **25 epochs**
