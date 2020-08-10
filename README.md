@@ -1,4 +1,4 @@
-# Dog Breed Classifier in PyTorch
+# Dog Breed Classifier in PyTorch [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)
 This is a repo for the Dog Breed Classifier Project  in Udacity Nanodegree
 
 It is implemented by using PyTorch library.
